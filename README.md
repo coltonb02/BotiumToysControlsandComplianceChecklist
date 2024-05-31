@@ -1,24 +1,16 @@
 # Botium Toys: Controls and Compliance Checklist
 
 ## Objective
-[Brief Objective - Remove this afterwards]
-
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Conduct a security audit to assess and improve Botium Toys’ security posture by identifying existing controls and compliance practices and determining which additional controls and compliance best practices need to be implemented.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
-
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Conducting a comprehensive security audit
+- Evaluating and implementing security controls
+- Assessing compliance with security regulations and standards
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
-
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- NIST Cybersecurity Framework
+- Security audit checklists
+- Compliance regulations documentation
 
 ## Project Materials
